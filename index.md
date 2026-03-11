@@ -7,16 +7,25 @@ paginate: true
 
 <!-- footer: <small><i>Kıvanç Tatar</small></i> <p> ![width:350](chalmers-gu.png)</p> -->
 
-# Cool title with a Background
+# Machine Learning and Artificial Intelligence Applied to Computational Arts, Music, and Games
 
-![bg opacity:30% ](tra-385.webp)
-
-The code above the title is a local directive:
-
-https://marpit.marp.app/directives?id=local-directives-1
+![bg right width:500](qr-code.png)
 
 ---
 
+# Overview
+
+- Background
+  - AI in Creative Domains
+  - Why does it matter?
+- Research Achivement: Bridging STEM with Social Sciences, Humanities and Arts
+- Foundation of the Research Group
+- Future Research directions
+
+<small> These slides are live at: 
+https://ktatar.github.io/2026-03-docent-lecture/ </small>
+
+---
 ## What is TRA 385?
 
 This is a list:
