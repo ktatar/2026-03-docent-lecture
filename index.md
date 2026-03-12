@@ -18,15 +18,6 @@ https://ktatar.github.io/2026-03-docent-lecture/ </small>
 
 ---
 
-### Deep Learning and Audio Technologies
-
-- Latent Timbre Synthesis
-- RawAudio Variational Autoencoder
-- Raw Music from Free Movements
-- Reinforcement Learning for Musical Performances with Moving Machine 
-
----
-
 ## Research Themes
 
 - Deep Learning and Audio Technologies
@@ -43,6 +34,19 @@ Focuses on technical innovations in sound synthesis and modeling using deep lear
 - Neural Fourier operators for timbre and acoustics.
 - Real-time audio generation from raw data.
 - Applications in musical acoustics and sound design.
+
+---
+
+### Deep Learning and Audio Technologies
+
+- Latent Timbre Synthesis
+- RawAudio Variational Autoencoder
+- Raw Music from Free Movements
+- Reinforcement Learning for Musical Performances with Moving Machine
+
+---
+
+#### Latent Timbre Synthesis
 
 ---
 
