@@ -132,7 +132,14 @@ Interpolations in the latent space of the VAE
 ADD PICTURE FROM SCREEN CAPTURE OF RAWAUDIOVAE
 
 ---
-## This is a table 
+
+#### Raw Music from Free Movements
+
+---
+
+#### Neuralacoustics
+
+---
 
 | Activities  |  |  | | |
 |:---|---|---|---|---|
