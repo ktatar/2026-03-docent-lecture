@@ -18,7 +18,11 @@ https://ktatar.github.io/2026-03-docent-lecture/ </small>
 
 ---
 
+### Deep Learning and Audio Technologies
 
+- Latent Timbre Synthesis
+- RawAudio Variational Autoencoder
+- Raw Music from Free Movements
 
 ---
 
