@@ -23,6 +23,7 @@ https://ktatar.github.io/2026-03-docent-lecture/ </small>
 - Latent Timbre Synthesis
 - RawAudio Variational Autoencoder
 - Raw Music from Free Movements
+- Reinforcement Learning for Musical Performances with Moving Machine 
 
 ---
 
