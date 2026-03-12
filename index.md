@@ -58,7 +58,7 @@ Focuses on technical innovations in sound synthesis and modeling using deep lear
 
 ---
 
-l;
+
 
 ---
 ## This is a table 
