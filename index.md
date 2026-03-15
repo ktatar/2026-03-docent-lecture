@@ -138,6 +138,7 @@ in the artwork *Coding the Latent*
 
 #### Raw Music from Free Movements
 
+![align-center width:900](img/ramfem-architecture.png)
 
 
 ---
