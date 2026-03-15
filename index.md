@@ -30,21 +30,8 @@ https://ktatar.github.io/2026-03-docent-lecture/ </small>
 ### Deep Learning and Audio
 
 Focuses on technical innovations in sound synthesis and modeling using deep learning:
-- Latent Timbre Synthesis
-- RawAudio Variational Autoencoder
-- Raw Music from Free Movements
-- Reinforcement Learning for Musical Performances with Moving Machines
-- Musical Acoustics Simulations
 
----
-
-### Deep Learning and Audio
-
-- **Latent Timbre Synthesis**
-- RawAudio Variational Autoencoder
-- Raw Music from Free Movements
-- Reinforcement Learning for Musical Performances with Moving Machines
-- Musical Acoustics Simulations
+TBD
 
 ---
 
@@ -95,16 +82,6 @@ Interpolations in the latent space of the VAE
 
 ---
 
-### Deep Learning and Audio Technologies
-
-- Latent Timbre Synthesis
-- **RawAudio Variational Autoencoder**
-- Raw Music from Free Movements
-- Reinforcement Learning for Musical Performances with Moving Machines
-- Musical Acoustics Simulations
-
----
-
 #### RawAudio Variational Autoencoder 
 
 in the artwork *Coding the Latent*
@@ -122,44 +99,6 @@ in the artwork *Coding the Latent*
 #### RawAudio Variational Autoencoder
 
 ![align-center width:900](img/coding-the-latent-arc.jpg)
-
----
-
-### Deep Learning and Audio
-
-- Latent Timbre Synthesis
-- RawAudio Variational Autoencoder
-- **Raw Music from Free Movements**
-- Reinforcement Learning for Musical Performances with Moving Machines
-- Musical Acoustics Simulations
-
----
-
-#### Raw Music from Free Movements
-
-![align-center width:900](img/coding-the-latent-setup.png)
-
----
-
-#### Raw Music from Free Movements
-
-![align-center width:900](https://ktatar.github.io/rawmusicfromfreemovements/content/movement_audio.png)
-
----
-
-#### Raw Music from Free Movements
-
-![align-center width:900](img/ramfem-architecture.png)
-
----
-
-### Deep Learning and Audio
-
-- Latent Timbre Synthesis
-- RawAudio Variational Autoencoder
-- Raw Music from Free Movements
-- Reinforcement Learning for Musical Performances with Moving Machines
-- **Musical Acoustics Simulations**
 
 ---
 
@@ -181,16 +120,17 @@ in the artwork *Coding the Latent*
 
 ![align-center width:500](img/neuralacoustics-2.png)
 
+---
+
+#### Music Notation and Composition with Latent Spaces
 
 ---
 
-### Deep Learning and Audio
+### Multimodal Deep Learning for Movement and Audio
 
-- Latent Timbre Synthesis
-- RawAudio Variational Autoencoder
 - Raw Music from Free Movements
-- **Reinforcement Learning for Musical Performances with Moving Machines**
-- Musical Acoustics Simulations
+- Reinforcement Learning for Musical Performances with Moving Machines
+- Neural Audio Instruments
 
 ---
 
@@ -209,23 +149,25 @@ in the artwork *Coding the Latent*
 
 ---
 
-### Deep Learning and Audio
+#### Raw Music from Free Movements
 
-- Latent Timbre Synthesis
-- RawAudio Variational Autoencoder
-- Raw Music from Free Movements
-- Musical Acoustics Simulations
-- Reinforcement Learning for Musical Performances with Moving Machines
-- **Music Notation and Composition with Latent Spaces**
+![align-center width:900](img/coding-the-latent-setup.png)
 
 ---
 
-#### Music Notation and Composition with Latent Spaces
+#### Raw Music from Free Movements
+
+![align-center width:900](https://ktatar.github.io/rawmusicfromfreemovements/content/movement_audio.png)
 
 ---
 
-Deep Learning for Movement and Audio
+#### Raw Music from Free Movements
 
+![align-center width:900](img/ramfem-architecture.png)
+
+---
+
+#### Neural Audio Instruments
 
 ---
 
