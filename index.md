@@ -21,7 +21,7 @@ https://ktatar.github.io/2026-03-docent-lecture/ </small>
 ## Research Themes
 
 - Deep Learning and Audio Technologies
-- AI andin Sound and Music Interactions
+- AI and in Sound and Music Interactions
 - AI in Computational Creativity and Game Design
 - Societal Impact of AI in Culture, Arts, and Music
 
@@ -202,16 +202,28 @@ in the artwork *Coding the Latent*
 
 ---
 
-
----
-
 ![align-left width:500](img/ergo-2.png)
 
 ![align-center width:400](img/ergo-3.png)
 
+---
+
+### Deep Learning and Audio
+
+- Latent Timbre Synthesis
+- RawAudio Variational Autoencoder
+- Raw Music from Free Movements
+- Musical Acoustics Simulations
+- Reinforcement Learning for Musical Performances with Moving Machines
+- **Music Notation and Composition with Latent Spaces**
 
 ---
 
+#### Music Notation and Composition with Latent Spaces
+
+
+
+---
 
 | Activities  |  |  | | |
 |:---|---|---|---|---|
