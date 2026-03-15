@@ -222,6 +222,9 @@ in the artwork *Coding the Latent*
 
 #### Music Notation and Composition with Latent Spaces
 
+---
+
+Deep Learning for Movement and Audio
 
 
 ---
