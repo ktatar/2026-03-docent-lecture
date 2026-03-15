@@ -128,9 +128,11 @@ in the artwork *Coding the Latent*
 
 - Latent Timbre Synthesis
 - RawAudio Variational Autoencoder
-- *Raw Music from Free Movements*
+- **Raw Music from Free Movements**
 - Musical Acoustics Simulations
 - Reinforcement Learning for Musical Performances with Moving Machine
+
+---
 
 #### Raw Music from Free Movements
 
@@ -141,7 +143,6 @@ in the artwork *Coding the Latent*
 #### Raw Music from Free Movements
 
 ![align-center width:900](https://ktatar.github.io/rawmusicfromfreemovements/content/movement_audio.png)
-
 
 ---
 
@@ -163,6 +164,9 @@ in the artwork *Coding the Latent*
 
 #### Neuralacoustics
 
+![align-left width:450](img/neuralacoustics-1.png)
+
+![align-right width:600](img/neuralacoustics-2.png)
 
 
 ---
