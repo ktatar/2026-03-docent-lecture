@@ -30,10 +30,11 @@ https://ktatar.github.io/2026-03-docent-lecture/ </small>
 ### Deep Learning and Audio
 
 Focuses on technical innovations in sound synthesis and modeling using deep learning:
-- Variational Autoencoders (VAEs)
-- Neural Fourier operators for timbre and acoustics.
-- Real-time audio generation from raw data.
-- Applications in musical acoustics and sound design.
+- Latent Timbre Synthesis
+- RawAudio Variational Autoencoder
+- Raw Music from Free Movements
+- Reinforcement Learning for Musical Performances with Moving Machines
+- Musical Acoustics Simulations
 
 ---
 
@@ -42,8 +43,8 @@ Focuses on technical innovations in sound synthesis and modeling using deep lear
 - **Latent Timbre Synthesis**
 - RawAudio Variational Autoencoder
 - Raw Music from Free Movements
-- Musical Acoustics Simulations
 - Reinforcement Learning for Musical Performances with Moving Machines
+- Musical Acoustics Simulations
 
 ---
 
@@ -99,8 +100,8 @@ Interpolations in the latent space of the VAE
 - Latent Timbre Synthesis
 - **RawAudio Variational Autoencoder**
 - Raw Music from Free Movements
-- Musical Acoustics Simulations
 - Reinforcement Learning for Musical Performances with Moving Machines
+- Musical Acoustics Simulations
 
 ---
 
@@ -129,8 +130,8 @@ in the artwork *Coding the Latent*
 - Latent Timbre Synthesis
 - RawAudio Variational Autoencoder
 - **Raw Music from Free Movements**
-- Musical Acoustics Simulations
 - Reinforcement Learning for Musical Performances with Moving Machines
+- Musical Acoustics Simulations
 
 ---
 
@@ -157,8 +158,8 @@ in the artwork *Coding the Latent*
 - Latent Timbre Synthesis
 - RawAudio Variational Autoencoder
 - Raw Music from Free Movements
-- **Musical Acoustics Simulations**
 - Reinforcement Learning for Musical Performances with Moving Machines
+- **Musical Acoustics Simulations**
 
 ---
 
@@ -188,8 +189,8 @@ in the artwork *Coding the Latent*
 - Latent Timbre Synthesis
 - RawAudio Variational Autoencoder
 - Raw Music from Free Movements
-- Musical Acoustics Simulations
 - **Reinforcement Learning for Musical Performances with Moving Machines**
+- Musical Acoustics Simulations
 
 ---
 
