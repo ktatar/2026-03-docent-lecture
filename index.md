@@ -124,6 +124,30 @@ in the artwork *Coding the Latent*
 
 #### Music Notation and Composition with Latent Spaces
 
+**Meta-Benjolin**
+
+![align-left width:500](img/meta-ben-1.png)
+
+![align-right width:600](img/meta-ben-2.png)
+
+---
+
+#### Music Notation and Composition with Latent Spaces
+
+![align-center width:900](img/meta-ben-3.png)
+
+---
+
+#### Music Notation and Composition with Latent Spaces
+
+![align-center width:850](img/meta-ben-4.png)
+
+---
+
+#### Music Notation and Composition with Latent Spaces
+
+![align-center width:850](img/meta-ben-5.png)
+
 ---
 
 ### Multimodal Deep Learning for Movement and Audio
@@ -171,9 +195,9 @@ in the artwork *Coding the Latent*
 
 **0.Stand on the shoulders of giants**
 
-- All the core insights from the DMI literature remain relevant 
-- Challenges like the control bottleneck and the symbolic nature of action-to-sound can become more pronounced under AI-driven conditions 
-- established guidance on fostering embodiment in DMIs still applies here as a vital starting point!
+All the core insights from the DMI literature remain relevant 
+Challenges like the control bottleneck and the symbolic nature of action-to-sound can become more pronounced under AI-driven conditions 
+Established guidance on fostering embodiment in DMIs still applies here as a vital starting point!
 
 ---
 
