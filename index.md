@@ -111,7 +111,9 @@ Interpolations in the latent space of the VAE
 
 ---
 
-#### RawAudio Variational Autoencoder
+#### RawAudio Variational Autoencoder 
+
+in the artwork *Coding the Latent*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rfq82eKE-34?si=1yz17QB_0yfCKHvS&amp;start=2160" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -135,6 +137,8 @@ Interpolations in the latent space of the VAE
 ---
 
 #### Raw Music from Free Movements
+
+
 
 ---
 
