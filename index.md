@@ -27,7 +27,7 @@ https://ktatar.github.io/2026-03-docent-lecture/ </small>
 
 ---
 
-### Deep Learning and Audio Technologies
+### Deep Learning and Audio
 
 Focuses on technical innovations in sound synthesis and modeling using deep learning:
 - Variational Autoencoders (VAEs)
@@ -37,20 +37,12 @@ Focuses on technical innovations in sound synthesis and modeling using deep lear
 
 ---
 
-### Deep Learning and Audio Technologies
-
-- Latent Timbre Synthesis
-- RawAudio Variational Autoencoder
-- Raw Music from Free Movements
-- Reinforcement Learning for Musical Performances with Moving Machine
-
----
-
-### Deep Learning and Audio Technologies
+### Deep Learning and Audio
 
 - **Latent Timbre Synthesis**
 - RawAudio Variational Autoencoder
 - Raw Music from Free Movements
+- Musical Acoustics Simulations
 - Reinforcement Learning for Musical Performances with Moving Machine
 
 ---
@@ -107,6 +99,7 @@ Interpolations in the latent space of the VAE
 - Latent Timbre Synthesis
 - **RawAudio Variational Autoencoder**
 - Raw Music from Free Movements
+- Musical Acoustics Simulations
 - Reinforcement Learning for Musical Performances with Moving Machine
 
 ---
@@ -131,8 +124,17 @@ in the artwork *Coding the Latent*
 
 ---
 
-![align-center width:900](img/coding-the-latent-setup.png)
+### Deep Learning and Audio
 
+- Latent Timbre Synthesis
+- RawAudio Variational Autoencoder
+- *Raw Music from Free Movements*
+- Musical Acoustics Simulations
+- Reinforcement Learning for Musical Performances with Moving Machine
+
+#### Raw Music from Free Movements
+
+![align-center width:900](img/coding-the-latent-setup.png)
 
 ---
 
@@ -147,10 +149,33 @@ in the artwork *Coding the Latent*
 
 ![align-center width:900](img/ramfem-architecture.png)
 
+---
+
+### Deep Learning and Audio
+
+- Latent Timbre Synthesis
+- RawAudio Variational Autoencoder
+- Raw Music from Free Movements
+- *Musical Acoustics Simulations*
+- Reinforcement Learning for Musical Performances with Moving Machine
 
 ---
 
 #### Neuralacoustics
+
+---
+
+### Deep Learning and Audio
+
+- Latent Timbre Synthesis
+- RawAudio Variational Autoencoder
+- Raw Music from Free Movements
+- Musical Acoustics Simulations
+**- Reinforcement Learning for Musical Performances with Moving Machine**
+
+---
+
+#### Reinforcement Learning for Musical Performances with Moving Machine
 
 
 
