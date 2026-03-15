@@ -156,7 +156,7 @@ in the artwork *Coding the Latent*
 - Latent Timbre Synthesis
 - RawAudio Variational Autoencoder
 - Raw Music from Free Movements
-- *Musical Acoustics Simulations*
+- **Musical Acoustics Simulations**
 - Reinforcement Learning for Musical Performances with Moving Machine
 
 ---
@@ -171,7 +171,7 @@ in the artwork *Coding the Latent*
 - RawAudio Variational Autoencoder
 - Raw Music from Free Movements
 - Musical Acoustics Simulations
-**- Reinforcement Learning for Musical Performances with Moving Machine**
+- **Reinforcement Learning for Musical Performances with Moving Machine**
 
 ---
 
