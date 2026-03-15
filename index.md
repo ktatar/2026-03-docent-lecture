@@ -197,8 +197,17 @@ in the artwork *Coding the Latent*
 
 ![bg left width:500](img/ergo.webp)
 
+![align-center width:250](img/ergo-1.png)
+
+
 ---
 
+
+---
+
+![align-left width:500](img/ergo-2.png)
+
+![align-center width:400](img/ergo-3.png)
 
 
 ---
