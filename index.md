@@ -347,13 +347,13 @@ AEGIS: Authentic Edge Growth In Sparsity for Link Prediction approached the clas
 
 We investigated whether large language models can translate structured game‑design knowledge—specifically goal‑pattern  abstractions—into executable Unity game scenes
 
-Problem framing: Introduces creative realization as a computational creativity problem—turning design‑pattern abstractions into executable, playable artifacts under real engine constraints.
-Execution‑grounded evaluation pipeline: Develops a full end‑to‑end workflow (LLM generation → Unity batch compilation → log‑based failure analysis) for assessing executable viability at scale.
-Unity‑specific structured intermediate representation (IR): Proposes IR v0.2-runtime-evidence, encoding both project‑level structural conventions and gameplay‑pattern semantics to scaffold LLM generation.
-Empirical comparison across pipelines: Evaluates 4,160 generation attempts using two code LLMs (DeepSeek‑Coder‑V2‑Lite and Qwen2.5‑Coder‑7B) across direct and IR‑conditioned pipelines.
-Failure taxonomy: Identifies and characterizes grounding failures (missing project or engine knowledge) and hygiene failures (syntactic/format issues), showing grounding failures as the primary bottleneck.
-Insights on human–machine knowledge boundaries: Shows that while IR reduces some failure types, it also increases structural complexity, revealing a tension in how domain knowledge should be injected into generative systems.
-Foundational diagnostic dataset: Provides pattern‑level error distributions, cross‑model comparisons, and structured analysis that future work can use to design better grounded generative game‑creation systems.
+**Problem framing:** Introduces creative realization as a computational creativity problem—turning design‑pattern abstractions into executable, playable artifacts under real engine constraints.
+
+**Execution‑grounded evaluation pipeline:** Develops a full end‑to‑end workflow (LLM generation → Unity batch compilation → log‑based failure analysis) for assessing executable viability at scale.
+
+**Failure taxonomy:** Identifies and characterizes grounding failures (missing project or engine knowledge) and hygiene failures (syntactic/format issues), showing grounding failures as the primary bottleneck.
+
+**Insights on human–machine knowledge boundaries:** Shows that while IR reduces some failure types, it also increases structural complexity, revealing a tension in how domain knowledge should be injected into generative systems.
 
 ---
 
