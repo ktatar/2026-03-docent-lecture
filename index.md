@@ -339,7 +339,7 @@ When the AI is not intended to act as a distinct musical agent, making its prese
 
 #### AEGIS: Authentic Edge Growth In Sparsity for Link Prediction
 
-
+Game Design Patterns (Bjork and Holopainen, 2005) includes over 200 
 
 ---
 
