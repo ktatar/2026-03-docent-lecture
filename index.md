@@ -251,11 +251,13 @@ When the AI is not intended to act as a distinct musical agent, making its prese
 
 #### Understanding Co-Storytelling with Large Language Models (LLMs)
 
+<small> AI Dungeon (<`https://play.aidungeon.com/>)  is a text-based adventure game that uses a large language model to generate dynamic and interactive storytelling experiences. Players can input any action or dialogue, and the AI responds with narrative developments, creating a unique story each time. This game exemplifies how LLMs can be used for co-storytelling, allowing players to collaboratively create narratives with the AI in real-time. </small>
+
 <div
   style="
     width: 100%;
     height: 70vh;
-    max-height: 450px;
+    max-height: 400px;
     border: 1px solid #ddd;
     border-radius: 12px;
     overflow: hidden;
@@ -282,7 +284,9 @@ When the AI is not intended to act as a distinct musical agent, making its prese
 
 #### Understanding Co-Storytelling with Large Language Models (LLMs)
 
-![bg right width:600](img/llm-research-design.png)
+![bg left width:600](img/llm-research-design.png)
+
+
 
 ---
 
