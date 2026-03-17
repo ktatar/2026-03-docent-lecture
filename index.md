@@ -251,11 +251,38 @@ When the AI is not intended to act as a distinct musical agent, making its prese
 
 #### Understanding Co-Storytelling with Large Language Models (LLMs)
 
-![bg right width:600](img/llm-research-design.png)
+<div
+  style="
+    width: 100%;
+    height: 70vh;
+    max-height: 450px;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    overflow: hidden;
+    position: relative;
+  "
+>
+  <iframe
+    src="https://play.aidungeon.com/"
+    title="AI Dungeon"
+    style="
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    "
+    loading="lazy"
+    referrerpolicy="no-referrer-when-downgrade"
+    allowfullscreen
+  ></iframe>
+</div>
 
 ---
 
-<div style="width:100%; height:75vh; border:1px solid #ddd; border-radius:12px; overflow:hidden;"> <iframe src="https://play.aidungeon.com/" title="AI Dungeon" width="100%" height="100%" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen> </iframe> </div> <p style="margin-top:10px; font-size:0.8em;"> If it does not load, open directly: <a href="https://play.aidungeon.com/" target="_blank" rel="noopener noreferrer">https://play.aidungeon.com/</a> </p>
+#### Understanding Co-Storytelling with Large Language Models (LLMs)
+
+![bg right width:600](img/llm-research-design.png)
 
 ---
 
