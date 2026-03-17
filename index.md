@@ -298,6 +298,11 @@ When the AI is not intended to act as a distinct musical agent, making its prese
 - Multimodal storytelling is emerging, with image generation expanding narrative expression.
 - Highlights: Wabi-sabi (imperfection appreciation), anthropomorphism/power dynamics, and the game–tool duality of LLM storytelling systems.
 
+---
+
+#### AEGIS: Authentic Edge Growth In Sparsity for Link Prediction
+
+
 
 ---
 
