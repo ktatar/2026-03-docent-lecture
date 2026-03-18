@@ -387,6 +387,12 @@ We investigated whether large language models can translate structured game‑de
 
 #### Conceptual Pillars of Artistic Creativity
 
+![align-center width:1000](img/artwork-1.jpg)
+
+---
+
+#### Expert Procrastinator's Tool: Artificial Intelligence
+
 
 
 ---
