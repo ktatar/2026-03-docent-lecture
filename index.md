@@ -384,6 +384,13 @@ We investigated whether large language models can translate structured game‑de
 ![align-center width:550](img/caring-trouble-3.png)
 
 ---
+
+#### Conceptual Pillars of Artistic Creativity
+
+
+
+---
+
 | Activities  |  |  | | |
 |:---|---|---|---|---|
 | **Lectures** | Introduction to Art and Technology | Introduction to AI and ML | Creativity, Group work, and Tools for Innovation |
