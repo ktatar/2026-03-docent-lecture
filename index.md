@@ -222,10 +222,19 @@ Interpolations in the latent space of the VAE
 
 ---
 
+## Research Themes
+
+- Deep Learning and Audio
+- **Multimodal Deep Learning for Movement and Audio**
+- AI in Computational Creativity and Game Design
+- Societal Impact of AI in Culture, Arts, and Music
+
+---
+
 ### Multimodal Deep Learning for Movement and Audio
 
+- **Reinforcement Learning for Musical Performances with Moving Machines**
 - Raw Music from Free Movements
-- Reinforcement Learning for Musical Performances with Moving Machines
 - Neural Audio Instruments
 
 ---
@@ -246,6 +255,14 @@ Interpolations in the latent space of the VAE
 
 ---
 
+### Multimodal Deep Learning for Movement and Audio
+
+- Reinforcement Learning for Musical Performances with Moving Machines
+- **Raw Music from Free Movements**
+- Neural Audio Instruments
+
+---
+
 #### Raw Music from Free Movements
 
 ![align-center width:1300](https://ktatar.github.io/rawmusicfromfreemovements/content/movement_audio.png)
@@ -257,6 +274,14 @@ Interpolations in the latent space of the VAE
 #### Raw Music from Free Movements
 
 ![align-center width:900](img/ramfem-architecture.png)
+
+---
+
+### Multimodal Deep Learning for Movement and Audio
+
+- Reinforcement Learning for Musical Performances with Moving Machines
+- Raw Music from Free Movements
+- **Neural Audio Instruments**
 
 ---
 
