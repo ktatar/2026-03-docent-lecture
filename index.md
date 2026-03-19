@@ -413,7 +413,7 @@ We investigated whether large language models can translate structured game‑de
 
 **Game Development Framing:** Digital game development as a computational creativity activity, in which design‑pattern abstractions and game engine constraints guide the creation of an executable, playable game
 **Execution‑grounded evaluation pipeline:** An end‑to‑end workflow (LLM generation → Unity batch compilation → log‑based failure analysis) for assessing executable viability at scale.
-**Insights on human–machine knowledge boundaries:** Shows that while IR reduces some failure types, it also increases structural complexity, revealing a tension in how domain knowledge should be injected into generative systems.
+**Insights on human–machine knowledge boundaries:** Game design pattern knowledge injection increases structural complexity requirement at generation, revealing a tension in how domain knowledge should be injected into generative systems.
 
 <small>H. X. Liu and K. Tatar, “Grounding Machine Creativity in Game Design Knowledge Representations: Empirical Probing of LLM-Based Executable Synthesis of Goal Playable Patterns under Structural Constraints,” Mar. 16, 2026, arXiv: arXiv:2603.07101. doi: 10.48550/arXiv.2603.07101. </small>
 
