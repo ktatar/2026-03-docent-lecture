@@ -111,7 +111,7 @@ in the artwork *Coding the Latent*
 
 ![align-right width:700](img/neuralacoustics-4.png)
 
-<small> </small>
+<small>Chen, J., Tatar, K., & Zappi, V.. (2024). A Deep Learning Framework for Musical Acoustics Simulations. In Proceedings of the AI Music Creativity Conference. Oxford, London, September 2024. https://aimc2024.pubpub.org/pub/5cl1cvmy/release/1</small>
 
 ---
 
@@ -134,6 +134,8 @@ in the artwork *Coding the Latent*
 ![align-left width:500](img/meta-ben-1.png)
 
 ![align-right width:600](img/meta-ben-2.png)
+
+<small>Madaghiele V., Lund L., Holzer D., Kelkar T., Tatar, K., and Holzapfel A. (2026). Expanding the machine: notating generative synthesis with a state-based representation and an interactive timbre space. Organised Sound, Cambridge Press.</small>
 
 ---
 
@@ -180,7 +182,6 @@ in the artwork *Coding the Latent*
 ![bg left width:500](img/ergo.webp)
 
 ![align-center width:250](img/ergo-1.png)
-
 
 ---
 
