@@ -633,6 +633,11 @@ We investigated whether large language models can translate structured game‑de
 
 #### Singing for the Missing: Bringing the Body Back to AI Voice and Speech Technologies
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hjRufK-nsXE?si=6lnv87ylUrPst8hA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+#### Singing for the Missing: Bringing the Body Back to AI Voice and Speech Technologies
 
 
 ---
