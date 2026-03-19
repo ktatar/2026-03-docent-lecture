@@ -499,6 +499,10 @@ We investigated whether large language models can translate structured game‑de
 
 ---
 
+
+
+---
+
 #### Digital Ripples (2020)
 
 <div
