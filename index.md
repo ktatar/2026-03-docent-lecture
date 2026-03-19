@@ -15,6 +15,7 @@ paginate: true
 
 <small> These slides are live at: 
 https://ktatar.github.io/2026-03-docent-lecture/ </small>
+https://opensourcetoolkit.com/qr-generator
 
 ---
 
