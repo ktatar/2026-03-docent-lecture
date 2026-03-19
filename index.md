@@ -359,8 +359,8 @@ The six takeaways from our conceptualization of neural audio instruments:
 
 ### AI in Computational Creativity and Game Design
 
-- Towards Computationally Creative Game Design
 - Understanding Co-Storytelling with Large Language Models (LLMs)
+- Towards Computationally Creative Game Design
 - AEGIS: Authentic Edge Growth In Sparsity for Link Prediction
 - Grounding Machine Creativity in Game Design Knowledge Representations
 
@@ -368,24 +368,10 @@ The six takeaways from our conceptualization of neural audio instruments:
 
 ### AI in Computational Creativity and Game Design
 
+- **Understanding Co-Storytelling with Large Language Models (LLMs)**
 - Towards Computationally Creative Game Design
-- Understanding Co-Storytelling with Large Language Models (LLMs)
 - AEGIS: Authentic Edge Growth In Sparsity for Link Prediction
 - Grounding Machine Creativity in Game Design Knowledge Representations
-
----
-
-#### Towards Computationally Creative Game Design
-
-![bg right width:650](img/co-occurrence-network.jpg)
-
-Reviewed 236 studies on learning-based AI in game design
-
-While AI technologies are widely applied for functional and procedural tasks, **creativity remains underexplored**
-
-We investigated the correlation between the appearance of creativity-related terms and their co-occurrence with other keywords. 
-
-The co-occurrence network here visualizes the relationships and connections between frequently co-occurring keywords within the same article. 
 
 ---
 
@@ -437,6 +423,38 @@ The co-occurrence network here visualizes the relationships and connections betw
 - Users develop strategies for controlling or guiding the LLM via narrative perspective, prompts, and system features (Story Cards, World Info, Author’s Notes).
 - Multimodal storytelling is emerging, with image generation expanding narrative expression.
 - Highlights: Wabi-sabi (imperfection appreciation), anthropomorphism/power dynamics, and the game–tool duality of LLM storytelling systems.
+
+---
+
+### AI in Computational Creativity and Game Design
+
+- Understanding Co-Storytelling with Large Language Models (LLMs)
+- **Towards Computationally Creative Game Design**
+- AEGIS: Authentic Edge Growth In Sparsity for Link Prediction
+- Grounding Machine Creativity in Game Design Knowledge Representations
+
+---
+
+#### Towards Computationally Creative Game Design
+
+![bg right width:650](img/co-occurrence-network.jpg)
+
+Reviewed 236 studies on learning-based AI in game design
+
+While AI technologies are widely applied for functional and procedural tasks, **creativity remains underexplored**
+
+We investigated the correlation between the appearance of creativity-related terms and their co-occurrence with other keywords. 
+
+The co-occurrence network here visualizes the relationships and connections between frequently co-occurring keywords within the same article. 
+
+---
+
+### AI in Computational Creativity and Game Design
+
+- Towards Computationally Creative Game Design
+- Understanding Co-Storytelling with Large Language Models (LLMs)
+- **AEGIS: Authentic Edge Growth In Sparsity for Link Prediction**
+- Grounding Machine Creativity in Game Design Knowledge Representations
 
 ---
 
@@ -511,6 +529,14 @@ AEGIS: Authentic Edge Growth In Sparsity for Link Prediction approached the clas
   ></iframe>
 </div>
 
+---
+
+### AI in Computational Creativity and Game Design
+
+- Understanding Co-Storytelling with Large Language Models (LLMs)
+- Towards Computationally Creative Game Design
+- AEGIS: Authentic Edge Growth In Sparsity for Link Prediction
+- **Grounding Machine Creativity in Game Design Knowledge Representations**
 
 ---
 
@@ -524,6 +550,10 @@ We investigated whether large language models can translate structured game‑de
 **Insights on human–machine knowledge boundaries:** Game design pattern knowledge injection increases structural complexity requirement at generation, revealing a tension in how domain knowledge should be injected into generative systems.
 
 <small>H. X. Liu and K. Tatar, “Grounding Machine Creativity in Game Design Knowledge Representations: Empirical Probing of LLM-Based Executable Synthesis of Goal Playable Patterns under Structural Constraints,” Mar. 16, 2026, arXiv: arXiv:2603.07101. doi: 10.48550/arXiv.2603.07101. </small>
+
+---
+
+
 
 ---
 
