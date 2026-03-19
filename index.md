@@ -9,13 +9,18 @@ paginate: true
 
 # Machine Learning and Artificial Intelligence Applied to Computational Arts, Music, and Games
 
----
 
-![bg right width:500](qr-code.png)
 
 <small> These slides are live at: 
 https://ktatar.github.io/2026-03-docent-lecture/ </small>
-https://opensourcetoolkit.com/qr-generator
+
+![width:150](img/qrcode.png)
+
+---
+
+
+
+
 
 ---
 
