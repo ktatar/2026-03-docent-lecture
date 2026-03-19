@@ -220,6 +220,37 @@ Interpolations in the latent space of the VAE
 
 ---
 
+#### Music Notation and Composition with Latent Spaces
+
+<div
+  style="
+    width: 100%;
+    height: 70vh;
+    max-height: 400px;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    overflow: hidden;
+    position: relative;
+  "
+>
+  <iframe
+    src="http://virt10.itu.chalmers.se/index.php/Category:Patterns"
+    title="AI Dungeon"
+    style="
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    "
+    loading="lazy"
+    referrerpolicy="no-referrer-when-downgrade"
+    allowfullscreen
+  ></iframe>
+</div>
+
+---
+
 ## Research Themes
 
 - Deep Learning and Audio
