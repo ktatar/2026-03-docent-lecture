@@ -5,7 +5,7 @@ math: katex
 paginate: true
 ---
 
-<!-- footer: <small><i>Kıvanç Tatar</small></i> <p> ![width:350](chalmers-gu.png)</p> -->
+<!-- footer: <small><i>Kıvanç Tatar, Associate Professor</small></i> <p> ![width:350](chalmers-gu.png)</p> -->
 
 # Machine Learning and Artificial Intelligence Applied to Computational Arts, Music, and Games
 
@@ -400,5 +400,11 @@ We investigated whether large language models can translate structured game‑de
 #### Expert Procrastinator's Tool: Artificial Intelligence
 
 <iframe width="1920" height="1080" src="https://www.youtube.com/embed/xdf1uKzGYfs?si=2ffM-WlVKZgfJasB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+# Thank you! 
+
+Feel free to reach out -> tatar@chalmers.se
 
 ---
