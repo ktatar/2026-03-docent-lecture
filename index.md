@@ -501,7 +501,7 @@ We investigated whether large language models can translate structured game‑de
 
 ---
 
-#### Expert Procrastinator's Tool: Artificial Intelligence (2022)
+#### Expert Procrastinator's Tool: Artificial Intelligence (2023)
 
 <iframe width="1920" height="1080" src="https://www.youtube.com/embed/xdf1uKzGYfs?si=2ffM-WlVKZgfJasB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -541,8 +541,6 @@ We investigated whether large language models can translate structured game‑de
     allowfullscreen
   ></iframe>
 </div>
-
-
 
 ---
 
