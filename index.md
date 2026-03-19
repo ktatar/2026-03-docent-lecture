@@ -376,7 +376,7 @@ The six takeaways from our conceptualization of neural audio instruments:
 
 #### Towards Computationally Creative Game Design
 
-
+![align-center width:750](img/co-occurrence-network.jpg)
 
 ---
 
