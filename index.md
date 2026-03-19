@@ -244,36 +244,43 @@ The six takeaways from our conceptualization of neural audio instruments:
 
 **0.Stand on the shoulders of giants**
 
-All the core insights from the DMI literature remain relevant 
-Challenges like the control bottleneck and the symbolic nature of action-to-sound can become more pronounced under AI-driven conditions 
-Established guidance on fostering embodiment in DMIs still applies here as a vital starting point!
+- All the core insights from the DMI literature remain relevant 
+- Challenges like the control bottleneck and the symbolic nature of action-to-sound can become more pronounced under AI/ML conditions 
+- Established guidance on fostering embodiment in DMIs still applies here as a vital starting point!
 
 ---
 
 **1.Search for new modes of interaction.** 
    
-The behaviors and “materials” of any instrument strongly condition how musicians interact with it. Neural networks, however, may exhibit properties not easily paralleled in earlier instruments. Hence, novel paradigms, such as directly “traversing” multi-dimensional latent spaces, might offer fresh avenues for mapping movement and cognition to sonic outcomes, potentially unlocking more intuitive or embodied interfaces.
+- The behaviors and “materials” of any instrument strongly condition how musicians interact with it 
+- Neural networks, however, may exhibit properties not easily paralleled in earlier instruments. 
+- Novel paradigms, such as directly “traversing” multi-dimensional latent spaces, might offer fresh avenues for mapping movement and cognition to sonic outcomes
 
 ---
 
 **2.Challenge dualities**
 
-A pressing and practical concern for DMIs lies in the traditional control–synthesis divide and the predicate of mapping. We do not suggest abandoning mapping altogether; exploration of how gesture connects to sound is a valuable design tool. However, we advocate a holistic design perspective where sound and gesture are conceived as a unified entity from the outset (Caramiaux et al., 2014), rather than as two separate “containers” later bound by mapping. 
+- A pressing and practical concern for DMIs lies in the traditional control–synthesis divide and the predicate of mapping. 
+- We do not suggest abandoning mapping altogether; exploration of how gesture connects to sound is a valuable design tool. 
+- We advocate a holistic design perspective where sound and gesture are conceived as a unified entity from the outset, rather than as two separate “containers” later bound by mapping 
 
 ---
 
 **3.Embrace inexplicability (with a grain of salt).**
    
-While research on explainable AI is undoubtedly worthwhile, non-explainability can play a significant role in the use and design of neural audio instruments.
-Performers and even designers of neural audio systems may choose to focus on musical outcomes rather than dissecting every underlying process. Indeed, not all instrument designs are “predicated on the application of scientific knowledge” (Green, 2011) and a certain measure of “unknowing” can inspire extraordinary results. 
-
-This notion also resonates with broader human-computer interaction discourse on the creative power of ignorance (Grammenos, 2014) (ranging from lack of preconceptions, to true ignorance), where “if you already know where you are going, you are not going someplace new.”
+- While research on explainable AI is undoubtedly worthwhile, non-explainability can play a significant role in the use and design of neural audio instruments.
+- Performers and even designers of neural audio systems may choose to focus on musical outcomes rather than dissecting every underlying process. 
+- Indeed, not all instrument designs are “predicated on the application of scientific knowledge” (Green, 2011) and a certain measure of “unknowing” can inspire extraordinary results. 
+- This notion also resonates with broader human-computer interaction discourse on the creative power of ignorance (Grammenos, 2014) (ranging from lack of preconceptions, to true ignorance), where “if you already know where you are going, you are not going someplace new.”
 
 ---
 
 **4. Make AI inconspicuous.**
 
-When the AI is not intended to act as a distinct musical agent, making its presence explicit may be unnecessary or even counterproductive. Instead, designers might treat neural audio models as just another invisible part of the instrument's anatomy, like the string of a piano or the integrated circuit of an analog synthesizer. By letting the model manifest itself only through the embodiment of the musician's actions and intentions (the trans-human intentionality), the performer can experience a unified instrument rather than a model endowed with conspicuous (artificial) intelligence. Under the hood, such intelligence may enable feats that would otherwise be impossible, such as large-scale physical modeling (Diaz et al., 2023), multi-stream data handling (Fiebrink and Sonami, 2020), or high-level perceptual organization (Tatar et al., 2020). Yet performers need not be confronted with “AI” per se. By rendering the model seamlessly integral, designers promote an experience of playing an instrument rather than interfacing with an AI model.
+- When the AI is not intended to act as a distinct musical agent, making its presence explicit may be unnecessary or even counterproductive.
+- Designers might treat neural audio models as just another invisible part of the instrument's anatomy, like the string of a piano or the integrated circuit of an analog synthesizer. 
+- By letting the model manifest itself only through the embodiment of the musician's actions and intentions, the performer can experience a unified instrument rather than a model endowed with conspicuous (artificial) intelligence
+- By rendering the model seamlessly integral, designers promote an experience of playing an instrument rather than interfacing with an AI model.
 
 ---
 
