@@ -338,6 +338,10 @@ When the AI is not intended to act as a distinct musical agent, making its prese
 
 Previous work: Game Design Patterns (Bjork and Holopainen, 2005) includes 200 patterns.
 
+
+
+---
+
 **Classification** -> Embedding -> Generative Game Synthesis
 
 AEGIS: Authentic Edge Growth In Sparsity for Link Prediction approached the classification problem as a link prediction task.
