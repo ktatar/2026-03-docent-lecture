@@ -108,7 +108,7 @@ Interpolations in the latent space of the VAE
 #### Coding the Latent
 
 ![align-center width:800](img/coding-the-latent-setup.png)
-
+    
 ---
 
 #### Neuralacoustics
@@ -507,6 +507,7 @@ We investigated whether large language models can translate structured game‑de
 
 ---
 
+#### Conceptual
 
 
 ---
