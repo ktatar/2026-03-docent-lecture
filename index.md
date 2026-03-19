@@ -624,7 +624,6 @@ We investigated whether large language models can translate structured game‑de
 
 <small>Haraway, D. (2013). A cyborg manifesto: Science, technology, and socialist-feminism in the late twentieth century. In The transgender studies reader (pp. 103–118). Routledge.</small>
 
-
 ---
 
 #### Caring Trouble and Musical AI
@@ -639,13 +638,21 @@ We investigated whether large language models can translate structured game‑de
 
 ---
 
-#### Singing for the Missing: Bringing the Body Back to AI Voice and Speech Technologies
+### Societal Impact of AI in Culture, Arts, and Music
+
+- A Shift in Artistic Practices through Artificial Intelligence
+- Caring Trouble and Musical AI
+- **Bringing the Body Back to AI Voice and Speech Technologies**
+
+---
+
+#### Bringing the Body Back to AI Voice and Speech Technologies
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hjRufK-nsXE?si=6lnv87ylUrPst8hA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### Singing for the Missing: Bringing the Body Back to AI Voice and Speech Technologies
+#### Bringing the Body Back to AI Voice and Speech Technologies
 
 Susan Bennett and Jon Briggs provided voice recordings for GM Voices, which were later licensed to ScanSoft.
 
@@ -658,7 +665,7 @@ Apple has never confirmed, nor denied whether they utilised Bennett’s concaten
 
 ---
 
-#### Singing for the Missing: Bringing the Body Back to AI Voice and Speech Technologies
+#### Bringing the Body Back to AI Voice and Speech Technologies
 
 - Integrating voice rights into personality rights frameworks
 - The data frameworks for voice should be designed to have direct connection to their source body
