@@ -19,6 +19,11 @@ https://ktatar.github.io/2026-03-docent-lecture/ </small>
 ## Acknowledgements
 
 
+| Funding  |  |  | | |
+|:---|---|---|---|---|
+| **Lectures** | Introduction to Art and Technology | Introduction to AI and ML | Creativity, Group work, and Tools for Innovation |
+| **Tutorials** | Creative Coding with Sound (PureData) | Multimedia Design with TouchDesigner | Deep Learning for Multimedia | Interactive ML with Physical Computing |
+| **Project** |Project Proposal| Design Iterations | Final Prototype | Reflections |
 
 ---
 
