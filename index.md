@@ -282,7 +282,6 @@ When the AI is not intended to act as a distinct musical agent, making its prese
 - Towards Computationally Creative Game Design
 - Understanding Co-Storytelling with Large Language Models (LLMs)
 - AEGIS: Authentic Edge Growth In Sparsity for Link Prediction
-- 
 
 ---
 
