@@ -493,13 +493,42 @@ We investigated whether large language models can translate structured game‑de
 
 ---
 
-#### Digital Ripples
+#### Expert Procrastinator's Tool: Artificial Intelligence (2022)
+
+<iframe width="1920" height="1080" src="https://www.youtube.com/embed/xdf1uKzGYfs?si=2ffM-WlVKZgfJasB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### Expert Procrastinator's Tool: Artificial Intelligence
+#### Digital Ripples (2020)
 
-<iframe width="1920" height="1080" src="https://www.youtube.com/embed/xdf1uKzGYfs?si=2ffM-WlVKZgfJasB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div
+  style="
+    width: 100%;
+    height: 70vh;
+    max-height: 400px;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    overflow: hidden;
+    position: relative;
+  "
+>
+  <iframe
+    src="https://objkt.com/tokens/hicetnunc/726715"
+    title="AI Dungeon"
+    style="
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    "
+    loading="lazy"
+    referrerpolicy="no-referrer-when-downgrade"
+    allowfullscreen
+  ></iframe>
+</div>
+
+
 
 ---
 
