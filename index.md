@@ -5,7 +5,7 @@ math: katex
 paginate: true
 ---
 
-<!-- footer: <small><i>Kıvanç Tatar, Associate Professor</small></i> <p> ![width:350](chalmers-gu.png)</p> -->
+<!-- footer: <small><i>Kıvanç Tatar, Associate Professor in Interactive AI</small></i> <p> ![width:350](chalmers-gu.png)</p> -->
 
 # Machine Learning and Artificial Intelligence Applied to Computational Arts, Music, and Games
 
@@ -287,7 +287,7 @@ When the AI is not intended to act as a distinct musical agent, making its prese
 
 #### Understanding Co-Storytelling with Large Language Models (LLMs)
 
-<small> AI Dungeon (<`https://play.aidungeon.com/>)  is a text-based adventure game that uses a large language model to generate dynamic and interactive storytelling experiences. Players can input any action or dialogue, and the AI responds with narrative developments, creating a unique story each time. This game exemplifies how LLMs can be used for co-storytelling, allowing players to collaboratively create narratives with the AI in real-time. </small>
+<small> AI Dungeon (<https://play.aidungeon.com/>)  is a text-based adventure game that uses a large language model to generate dynamic and interactive storytelling experiences. Players can input any action or dialogue, and the AI responds with narrative developments, creating a unique story each time. This game exemplifies how LLMs can be used for co-storytelling, allowing players to collaboratively create narratives with the AI in real-time. </small>
 
 <div
   style="
