@@ -365,6 +365,8 @@ Previous work: Game Design Patterns (Bjork and Holopainen, 2005) includes 200 pa
   ></iframe>
 </div>
 
+<small> Bjork, S., and Holopainen, J. 2005. Patterns in game design, volume 11. Charles River Media Hingham. </small>
+
 ---
 
 **Classification** -> Embedding -> Generative Game Synthesis
@@ -403,6 +405,7 @@ AEGIS: Authentic Edge Growth In Sparsity for Link Prediction approached the clas
     allowfullscreen
   ></iframe>
 </div>
+
 
 ---
 
