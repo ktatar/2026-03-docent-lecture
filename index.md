@@ -120,6 +120,24 @@ Interpolations in the latent space of the VAE
 
 ---
 
+#### Latent Timbre Synthesis
+
+Emerging themes from the user study with 9 composers: 
+
+- Iterative sound design in musical composition
+- Musical strategies
+- Musical goals and concepts
+- Familiarity
+- Affordances
+- Sound aesthetics
+- Sound quality
+- User Inteface
+- Tool Deficiencies
+- Continued use
+
+
+---
+
 ### Deep Learning and Audio
 
 - Latent Timbre Synthesis
