@@ -296,12 +296,6 @@ Emerging themes from the user study with 9 composers:
 
 ---
 
-#### Music Notation and Composition with Latent Spaces
-
-
-
----
-
 ## Research Themes
 
 - Deep Learning and Audio
@@ -742,6 +736,12 @@ We investigated whether large language models can translate structured game‑de
 #### Caring Trouble and Musical AI
 
 ![align-center width:550](img/caring-trouble-3.png)
+
+---
+
+#### Caring Trouble and Musical AI
+
+
 
 ---
 
