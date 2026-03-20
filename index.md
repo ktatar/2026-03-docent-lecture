@@ -259,7 +259,7 @@ Interpolations in the latent space of the VAE
   "
 >
   <iframe
-    src="http://virt10.itu.chalmers.se/index.php/Category:Patterns"
+    src="https://meta-benjolin.com/"
     title="AI Dungeon"
     style="
       position: absolute;
