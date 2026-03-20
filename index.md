@@ -341,9 +341,18 @@ Interpolations in the latent space of the VAE
 
 #### Neural Audio Instruments
 
+<br>
+
 Neural Audio is a category of deep learning pipelines which output audio signals directly, in real-time scenarios of action-sound interactions
 
+<br>
 
+We define neural audio instruments as Digital Musical Instruments that embed neural network and deep learning approaches capable of directly generating or transforming audio signals, and enabling real-time action–sound mapping.
+
+<br>
+<br>
+<br>
+<small>Zappi, V., & Tatar, K. (2025). Neural audio instruments: Epistemological and phenomenological perspectives on musical embodiment of deep learning. Frontiers in Computer Science, 7. https://doi.org/10.3389/fcomp.2025.1575168 </small>
 
 ---
 
