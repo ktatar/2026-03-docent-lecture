@@ -479,7 +479,6 @@ The six takeaways from our conceptualization of neural audio instruments:
 </div>
 
 <small>Liu, H. X., Holopainen, J., Tatar, K. Understanding Human–LLM Co-Storytelling as Interactive Narrative Play: Evidence from AI Dungeon. Submitted to ACM CHI PLAY 2026.</small>
-
 ---
 
 #### Understanding Co-Storytelling with Large Language Models (LLMs)
@@ -520,6 +519,8 @@ While AI technologies are widely applied for functional and procedural tasks, **
 We investigated the correlation between the appearance of creativity-related terms and their co-occurrence with other keywords. 
 
 The co-occurrence network here visualizes the relationships and connections between frequently co-occurring keywords within the same article. 
+
+<small>Liu, H. X., Cotton, K., Björk, S., Tatar, K. Towards Computationally Creative Game Design in Human-Computer Interaction: A Systematic Overview of Learning-based Artificial Intelligence in Game Design. Submitted to Games: Research and Practice.</small>
 
 ---
 
@@ -657,6 +658,8 @@ We investigated whether large language models can translate structured game‑de
 ---
 
 #### Caring Trouble and Musical AI
+
+<small><https://holly.plus></small>
 
 <div
   style="
