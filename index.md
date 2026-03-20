@@ -733,6 +733,8 @@ We investigated whether large language models can translate structured game‑de
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hjRufK-nsXE?si=6lnv87ylUrPst8hA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<small>Cotton, Kelsey, de Vries, Katja & Tatar, Kıvanç. (2024). Singing for the Missing: Bringing the Body Back to AI Voice and Speech Technologies. In Proceedings of the 9th International Conference on Movement and Computing. Utrecht, Netherlands, May 2024. https://dl.acm.org/doi/10.1145/3658852.3659065</small>
+
 ---
 
 #### Bringing the Body Back to AI Voice and Speech Technologies
@@ -744,7 +746,7 @@ of the American Siri (Bennett) and British Siri (Briggs) through speech concaten
 
 Apple has never confirmed, nor denied whether they utilised Bennett’s concatenated speech data, nor Briggs’. In the case of Bennett, audio forensics expert Ed Primeau studied recordings of Siri and blind recordings of Bennett’s voice and presented his the conclusion of his analysis that “They are identical – a 100 % match.”
 
-<small>Cotton, Kelsey, de Vries, Katja & Tatar, Kıvanç. (2024). Singing for the Missing: Bringing the Body Back to AI Voice and Speech Technologies. In Proceedings of the 9th International Conference on Movement and Computing. Utrecht, Netherlands, May 2024. https://dl.acm.org/doi/10.1145/3658852.3659065</small>
+
 
 ---
 
