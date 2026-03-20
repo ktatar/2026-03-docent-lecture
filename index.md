@@ -478,7 +478,7 @@ The six takeaways from our conceptualization of neural audio instruments:
   ></iframe>
 </div>
 
-<small>Liu, X., Holopainen, J., Tatar, K. Understanding Human–LLM Co-Storytelling as Interactive Narrative Play: Evidence from AI Dungeon. Submitted to ACM CHI PLAY 2026.</small>
+<small>Liu, H. X., Holopainen, J., Tatar, K. Understanding Human–LLM Co-Storytelling as Interactive Narrative Play: Evidence from AI Dungeon. Submitted to ACM CHI PLAY 2026.</small>
 
 ---
 
@@ -574,7 +574,7 @@ AEGIS: Authentic Edge Growth In Sparsity for Link Prediction approached the clas
 
 #### AEGIS: Authentic Edge Growth In Sparsity for Link Prediction
 
-**Game Design Patterns** (Bjork and Holopainen, 2005)
+<small>**Game Design Patterns** (Bjork and Holopainen, 2005) <https://gdpv.is></small>
 
 <div
   style="
@@ -602,6 +602,9 @@ AEGIS: Authentic Edge Growth In Sparsity for Link Prediction approached the clas
     allowfullscreen
   ></iframe>
 </div>
+
+<small>Liu, H. X., & Tatar, K. (2026). AEGIS: Authentic Edge Growth In Sparsity for Link Prediction in Edge-Sparse Bipartite Knowledge Graphs (arXiv:2509.22017). arXiv. https://doi.org/10.48550/arXiv.2509.22017</small>
+
 
 ---
 
