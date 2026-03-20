@@ -274,6 +274,8 @@ Interpolations in the latent space of the VAE
   ></iframe>
 </div>
 
+<small>Madaghiele V., Lund L., Holzer D., Kelkar T., Tatar, K., and Holzapfel A. (2026). Expanding the machine: notating generative synthesis with a state-based representation and an interactive timbre space. Organised Sound, Cambridge Press.</small>
+
 ---
 
 ## Research Themes
